@@ -1,7 +1,6 @@
 import time
-
 from selenium.webdriver.common.by import By
-from utility.Login_basepage import Basepage
+from utility.Basepage import Basepage
 
 
 class Login(Basepage):
@@ -19,11 +18,6 @@ class Login(Basepage):
         self.hrm_send_keys(self.password, pwdvalue)
         self.hrm_btn_click(self.submit)
         time.sleep(8)
-
-    def logout(self):
-        self.hrm_btn_click(self.click)
-        self.hrm_btn_click(self.Logout)
-        time.sleep(3)
 
     def get_title(self, title):
         self.hrm_get_title(title)
