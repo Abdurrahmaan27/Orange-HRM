@@ -43,7 +43,7 @@ Make sure you have the following installed on your system:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<Abdurrahmaan27>/OrangeHRM-Automation.git
+   git clone https://github.com/Abdurrahmaan27/OrangeHRM-Automation.git
    cd OrangeHRM-Automation
 
 2. **Create a virtual environment** (recommended)
