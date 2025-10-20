@@ -31,7 +31,7 @@ Make sure you have the following installed on your system:
 - pip (Python package manager)
 
 ---
-# Features Covered
+## Features Covered
    - Login and logout flows
    - Admin: add / edit / delete user accounts
    - PIM: add / manage employees
@@ -61,7 +61,7 @@ To view browser actions while debugging (headed mode):
 ```pytest --headed -v```
 
 
-**Framework Workflow**
+# Framework Workflow
 
 1.**BasePage**
 Contains reusable Selenium methods (click, send_keys, get_title, etc.).
