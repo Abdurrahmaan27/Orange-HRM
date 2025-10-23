@@ -8,7 +8,7 @@ maintainability of test scripts.
 
 
 # Project Structure
-<img width="2740" height="1526" alt="image" src="https://github.com/user-attachments/assets/5d40aaf1-8e4b-4fbe-bd14-2497f486e40a" />
+<img width="2640" height="1526" alt="image" src="https://github.com/user-attachments/assets/5d40aaf1-8e4b-4fbe-bd14-2497f486e40a" />
 
 
 ## Tech Stack
