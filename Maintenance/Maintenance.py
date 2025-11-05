@@ -2,7 +2,6 @@ import time
 from selenium.webdriver.common.by import By
 from utility.Basepage import Basepage
 
-
 class Maintenance(Basepage):
     # TO VALIDATE ADMIN
     page = (By.LINK_TEXT, "Maintenance")
